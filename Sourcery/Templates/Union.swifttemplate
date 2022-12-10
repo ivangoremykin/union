@@ -1,0 +1,9 @@
+<%- includeFile("Formatting.swift") %>
+<%- includeFile("CodeGeneration.swift") %>
+<%- includeFile("UnionGeneration.swift") %>
+
+// sourcery:file:Union.swift
+
+<%= makeUnionSource(unionSize: argument["unionSize"] as! Int, accessLevel: argument["accessLevel"] as! String, unionTypeIDType: argument["unionTypeIDType"] as! String, unionTypeIDKey: argument["unionTypeIDKey"] as! String, wrappedValueKey: argument["wrappedValueKey"] as! String) %>
+
+// sourcery:end

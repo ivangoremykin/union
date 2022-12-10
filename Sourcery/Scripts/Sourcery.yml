@@ -1,0 +1,16 @@
+sources:
+    include:
+        - ../Scripts
+
+templates:
+    - ../Templates/Union.swifttemplate
+
+output:
+    ../../Generated
+
+args:
+    unionSize: 9
+    accessLevel: "public"
+    unionTypeIDType: "String"
+    unionTypeIDKey: "type"
+    wrappedValueKey: "value"
