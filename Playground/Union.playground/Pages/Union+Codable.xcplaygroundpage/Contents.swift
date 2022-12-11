@@ -1,5 +1,5 @@
 /*:
- An example from an article [Adding Codable conformance to Union with Metaprogramming](https://dev.to/ivangoremykin/adding-codable-conformance-to-union-with-metaprogramming-4k08-temp-slug-1197351?preview=03668af4c6191b03c0476d24b7040c4149a2f2e50fdcaaad7c75ef0751b0a8613dc87a860e0fdc6cd6a04327a99daf8b68d0619afd0ec73ad73a49b1).
+ An example for an article [Adding Codable conformance to Union with Metaprogramming](https://dev.to/ivangoremykin/adding-codable-conformance-to-union-with-metaprogramming-4k08-temp-slug-1197351).
  
  [Table of Contents](Table%20of%20Contents) · [Previous](@previous)
 ****
