@@ -12,7 +12,7 @@ This repository provides examples of `UnionX` (`Union2`, `Union3`, etc.) generat
 There are 3 ways to explore the code:
 1. Open `Union.playground` to run code generatation and examples of `UnionX` usage ([Sourcery](https://github.com/krzysztofzablocki/Sourcery) is not required)
 2. Run code generation using a [Sourcery](https://github.com/krzysztofzablocki/Sourcery) template (a [Sourcery](https://github.com/krzysztofzablocki/Sourcery) binary is required)
-3. Run the code on [Repl.it](https://replit.com/@ivangoremykin/Union) — both code generatation and examples of `UnionX` usage
+3. Run the code on [Repl.it](https://github.com/ivangoremykin/union/blob/main/Replit.md) — both code generatation and examples of `UnionX` usage
 
 Please refer to the articles for the details:
 * [Adding Union to Swift with Metaprogramming](https://dev.to/ivangoremykin/adding-union-to-swift-with-metaprogramming-510d-temp-slug-2422196)
