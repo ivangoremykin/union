@@ -15,8 +15,8 @@ There are 3 ways to explore the code:
 3. Run the code on [Repl.it](https://github.com/ivangoremykin/union/blob/main/Replit.md) — both code generatation and examples of `UnionX` usage
 
 Please refer to the articles for the details:
-* [Adding Union to Swift with Metaprogramming](https://dev.to/ivangoremykin/adding-union-to-swift-with-metaprogramming-510d-temp-slug-2422196)
-* [Adding Codable conformance to Union with Metaprogramming](https://dev.to/ivangoremykin/adding-codable-conformance-to-union-with-metaprogramming-4k08-temp-slug-1197351)
+* [Adding Union to Swift with Metaprogramming](https://dev.to/ivangoremykin/adding-union-to-swift-with-metaprogramming-gld)
+* [Adding Codable conformance to Union with Metaprogramming](https://dev.to/ivangoremykin/adding-codable-conformance-to-union-with-metaprogramming-6ce)
 
 # Requirements
 * Xcode

@@ -1,5 +1,5 @@
 /*:
- An example for an article [Adding Union to Swift with Metaprogramming](https://dev.to/ivangoremykin/adding-union-to-swift-with-metaprogramming-510d-temp-slug-2422196).
+ An example for an article [Adding Union to Swift with Metaprogramming](https://dev.to/ivangoremykin/adding-union-to-swift-with-metaprogramming-gld).
  
 [Table of Contents](Table%20of%20Contents) · [Previous](@previous) · [Next](@next)
 ****
