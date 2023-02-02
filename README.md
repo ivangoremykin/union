@@ -3,7 +3,7 @@ Adding Union to Swift with Metaprogramming
 
 #### A supplementary example for a series of articles
 
-![](https://github.com/ivangoremykin/uiviewcontroller-metaprogramming/blob/media/editorial-illustration.jpg)
+![](https://github.com/ivangoremykin/union/blob/media/union-editorial-illustration.jpg)
 
 # Summary
 
